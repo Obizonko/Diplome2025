@@ -1,0 +1,23 @@
+statement,true_label_text,nli_decision,nli_score,predicted_news_status_fc,retrieved_evidence_count,best_evidence_text_fc,best_evidence_source_fc
+Annual flu vaccines reduce the risk of influenza by up to 60% in the overall population during seasons when most circulating flu viruses are well-matched to the flu vaccine.,REAL,NEUTRAL,0.9976639747619629,NEUTRAL (Wiki evidence not decisive),5,"As of 2019, the CDC recommends a yearly vaccine as most studies demonstrate overall effectiveness of annual influenza vaccination.",Influenza vaccine
+"The Earth's average surface temperature has risen by more than 1 degree Celsius since the pre-industrial period, primarily due to human-caused greenhouse gas emissions.",REAL,NEUTRAL,0.9945496916770935,NEUTRAL (Wiki evidence not decisive),5,Global surface temperature (GST) is the average temperature of Earth's surface.,Global surface temperature
+Drinking bleach can cure COVID-19 and other viral infections.,FAKE,NO_NLI_RUN,0.0,CANNOT VERIFY (No Wiki Evidence Found),0,N/A,N/A
+The great wall of China is the only man-made structure visible from the moon with the naked eye.,FAKE,ENTAILMENT,0.7869836091995239,LIKELY REAL (Supported by Wiki),5,"Stukeley wrote that, ""This mighty wall [Hadrian's wall] of four score miles [130 km] in length is only exceeded by the Chinese Wall, which makes a considerable figure upon the terrestrial globe, and may be discerned at the Moon."" The claim was also mentioned by Henry Norman in 1895, writing ""besides its age it enjoys the reputation of being the only work of human hands on the globe visible from the Moon."" The myth also appears in the 1932 strip of Ripley's Believe It or Not!.",Great Wall of China
+Elon Musk announced plans to build the first city on Mars by 2040.,UNCERTAIN_OR_SPECULATIVE,CONTRADICTION,0.9849755167961121,LIKELY FAKE (Contradicted by Wiki),5,Musk instead decided to start a company to build affordable rockets.,Elon Musk
+Taylor Swift won a total of 14 Grammy Awards throughout her career as of early 2024.,REAL,NEUTRAL,0.9940915703773499,NEUTRAL (Wiki evidence not decisive),5,"== Life and career ==
+
+
+=== Early life ===
+Taylor Alison Swift was born on December 13, 1989, in West Reading, Pennsylvania.",Taylor Swift
+Actor Tom Hanks was recently arrested for distributing fake medication.,FAKE,CONTRADICTION,0.8427996039390564,LIKELY FAKE (Contradicted by Wiki),5,It is the second time he was directed by Tom Tykwer after Cloud Atlas.,Tom Hanks
+Volodymyr Zelenskyy addressed the United Nations General Assembly in September 2023.,REAL,CONTRADICTION,0.8866192698478699,LIKELY FAKE (Contradicted by Wiki),5,The reform proposals were not taken up by the United Nations World Summit in September 2005.,United Nations General Assembly
+Cristiano Ronaldo stated he will retire from professional football at the end of the current season.,UNCERTAIN_OR_SPECULATIVE,CONTRADICTION,0.8430384993553162,LIKELY FAKE (Contradicted by Wiki),5,"== External links ==
+
+Official website 
+Profile at Real Madrid CF
+Profile at Manchester United F.C.
+Cristiano Ronaldo national team profile at the Portuguese Football Federation (in Portuguese) 
+Cristiano Ronaldo – FIFA competition record (archived) 
+Cristiano Ronaldo – UEFA competition record (archive) 
+Cristiano Ronaldo at Premier League",Cristiano Ronaldo
+The COVID-19 vaccine contains microchips designed by Bill Gates to track the population.,FAKE,CONTRADICTION,0.9604374766349792,LIKELY FAKE (Contradicted by Wiki),5,"Gates Building"" that was designed by architect Frank Gehry.",Bill Gates
